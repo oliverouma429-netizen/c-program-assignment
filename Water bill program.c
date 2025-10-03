@@ -1,8 +1,8 @@
 //program to output water bill
 /*
-Name 
-Reg No 
-Description 
+Name: Oliver Ouma 
+Reg No:CT101/G/29075/25
+Description :A display program for output water bill
 */
 
 #include<stdio.h>
