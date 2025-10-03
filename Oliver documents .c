@@ -1,4 +1,4 @@
-//
+//simple program for personal details 
 /*
 Name: Oliver Ouma 
 Reg:CT101/G/29075/25
