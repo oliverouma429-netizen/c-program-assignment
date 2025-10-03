@@ -1,6 +1,8 @@
 //
 /*
-
+Name: Oliver Ouma 
+Reg:CT101/G/29075/25
+Description:A display program for bank balance, phone number and height 
 */
 
 #include<stdio.h>
