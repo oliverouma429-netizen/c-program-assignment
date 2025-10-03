@@ -1,8 +1,8 @@
 //simple display of exams eligibility 
 /*
-Name
-Reg No
-Description 
+Name: Oliver Ouma 
+Reg No:CT101/G/29075/25
+Description Exam eligibility display program 
 */
 #include<stdio.h>
   int main(){
