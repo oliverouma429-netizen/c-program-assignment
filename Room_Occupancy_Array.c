@@ -1,6 +1,6 @@
 /*
-Name: LAURENCE ODUORI OCHIENG
-Reg No: CT101/G/26674/25
+Name: OLIVER OUMA
+Reg No: CT101/G/29075/25
 Description: Array Room Occupancy (One Branch)
 */
 
@@ -44,3 +44,4 @@ int main() {
 
     return 0;
 }
+
