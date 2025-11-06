@@ -1,6 +1,6 @@
 /*
-Name:LAURENCE ODUORI OCHIENG 
-Reg No:CT101/G/26674/25
+Name:oliver ouma
+Reg No:CT101/G/29075/25
 Description:A C program that stores students name, registration number,and total marks
 */
 
@@ -39,3 +39,4 @@ int main() {
     fclose(file);
     return 0;
 }
+
